@@ -348,6 +348,10 @@ template {
   display: none;
 }
 
+body {
+  background: url(background.jpg) no-repeat 50%;
+}
+
 .container {
   position: absolute;
   top: 50%;
